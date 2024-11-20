@@ -411,9 +411,6 @@ If no algorithm is defined default is `AES-256-CBC`
   "mac":  "Hash HMAC signature"
 }
 ```
-### Dependencies
-* [php-serialize](https://github.com/steelbrain/php-serialize#readme)
-
 ### Contributing
 Pull requests are welcome.
 
